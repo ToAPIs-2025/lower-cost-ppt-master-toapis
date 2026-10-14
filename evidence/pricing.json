@@ -1,0 +1,13 @@
+{
+  "checked_date": "2026-10-14",
+  "source": "GET /v1/pricing?model=gpt-image-2-vip",
+  "model": "gpt-image-2-vip",
+  "conditions": {
+    "quality": "low",
+    "resolution": "1K",
+    "n": 1
+  },
+  "unit": "request",
+  "unit_quote_usd": "0.0019",
+  "model_landing": "https://go2v.toapis.com/1014_pptmaster_lowercost_gh_en"
+}

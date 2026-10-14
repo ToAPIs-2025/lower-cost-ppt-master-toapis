@@ -1,0 +1,22 @@
+--- a/skills/ppt-master/scripts/image_gen.py
++++ b/skills/ppt-master/scripts/image_gen.py
+@@ -85,6 +85,7 @@
+     "FAL_",
+     "REPLICATE_",
+     "OPENROUTER_",
++    "TOAPIS_",
+ )
+ DEPRECATED_IMAGE_KEYS = {
+     "IMAGE_API_KEY",
+@@ -104,6 +105,11 @@
+ ALL_IMAGE_SIZES = ["512px", "1K", "2K", "4K"]
+ 
+ BACKEND_REGISTRY = {
++    "toapis": {
++        "module": "backend_toapis", "tier": "experimental", "label": "ToAPIs async image preview",
++        "default_model": "gpt-image-2-vip", "default_image_size": "1K",
++        "key_hint": "TOAPIS_API_KEY", "aliases": [],
++    },
+     "gemini": {
+         "module": "backend_gemini",
+         "tier": "core",

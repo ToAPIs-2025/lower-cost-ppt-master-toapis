@@ -1,0 +1,29 @@
+[
+  {
+    "id": "01-resort",
+    "prompt": "Editorial architecture photograph for an editable sustainability presentation: a contemporary coastal eco-resort made of pale stone and warm timber, dune grasses, calm ocean, soft morning light, generous clear sky on the left for slide titles. No text, no watermark.",
+    "size": "16:9",
+    "model": "gpt-image-2-vip",
+    "quality": "low",
+    "resolution": "1K",
+    "n": 1
+  },
+  {
+    "id": "02-solar",
+    "prompt": "Editorial photograph for a sustainability presentation: elegant solar panels integrated on a coastal eco-resort rooftop, ocean beyond, precise materials, amber afternoon light, real architectural perspective. No text, no watermark.",
+    "size": "16:9",
+    "model": "gpt-image-2-vip",
+    "quality": "low",
+    "resolution": "1K",
+    "n": 1
+  },
+  {
+    "id": "03-interior",
+    "prompt": "Editorial architecture photograph for a sustainability presentation: minimal coastal eco-resort lounge, recycled timber, linen upholstery, ceramic objects, ocean visible through wide windows, realistic natural afternoon light. No text, no watermark.",
+    "size": "16:9",
+    "model": "gpt-image-2-vip",
+    "quality": "low",
+    "resolution": "1K",
+    "n": 1
+  }
+]
