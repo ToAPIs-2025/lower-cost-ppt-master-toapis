@@ -2,7 +2,7 @@
 
 [中文](README_zh-CN.md)
 
-ToAPIs `gpt-image-2-vip / low / 1K / n=1` for PPT Master workflows. 3 completed images, **$0.0057 quoted total**; actual charge pending account reconciliation.
+ToAPIs `gpt-image-2-vip / low / 1K / n=1` for PPT Master workflows. 3 image-2(vip) images: **$0.0057 actually charged**.
 
 Original image_gen.py CLI → new ToAPIs backend → async image outputs. Full agent-driven decks and native PPTX export were not validated.
 
@@ -24,7 +24,7 @@ Original image_gen.py CLI → new ToAPIs backend → async image outputs. Full a
 |---|---|---|
 | `gpt-image-2-vip` | `low / 1K / n=1` | **$0.0019** |
 
-3 completed images, **$0.0057 quoted total**; actual charge pending account reconciliation。
+3 image-2(vip) images: **$0.0057 actually charged**。
 
 [API pricing snapshot](evidence/pricing.json) · [Cost record](evidence/costs.json) · [Original requests](evidence/runs.json)
 

@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-以 ToAPIs `gpt-image-2-vip / low / 1K / n=1` 复用 PPT Master 场景。3 张已完成图片，API 报价合计 **$0.0057**；实扣金额待后台核对。
+以 ToAPIs `gpt-image-2-vip / low / 1K / n=1` 复用 PPT Master 场景。3张 image-2(vip) 生图实扣 **$0.0057**。
 
 原 image_gen.py CLI → 新 ToAPIs Backend → 异步图片结果；整套 Agent 生成 PPT 与原生导出未验收。
 
@@ -24,7 +24,7 @@
 |---|---|---|
 | `gpt-image-2-vip` | `low / 1K / n=1` | **$0.0019** |
 
-3 张已完成图片，API 报价合计 **$0.0057**；实扣金额待后台核对。
+3张 image-2(vip) 生图实扣 **$0.0057**。
 
 [API pricing snapshot](evidence/pricing.json) · [Cost record](evidence/costs.json) · [Original requests](evidence/runs.json)
 
